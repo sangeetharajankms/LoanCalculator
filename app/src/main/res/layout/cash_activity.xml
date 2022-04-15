@@ -40,8 +40,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text2000"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_2000"
             android:textSize="20sp"
@@ -70,7 +70,7 @@
             app:layout_constraintEnd_toStartOf="@+id/equal2000"
             app:layout_constraintStart_toEndOf="@id/multiply2000"
             app:layout_constraintTop_toTopOf="parent"
-            tools:ignore="Autofill" />
+            tools:ignore="Autofill,LabelFor" />
 
         <TextView
             android:id="@+id/equal2000"
@@ -84,9 +84,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out2000"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -110,8 +110,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text500"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_500"
             android:textSize="20sp"
@@ -154,9 +154,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out500"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -179,8 +179,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text200"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_200"
             android:textSize="20sp"
@@ -223,9 +223,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out200"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -249,8 +249,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text100"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_100"
             android:textSize="20sp"
@@ -293,9 +293,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out100"
-            android:layout_width="100dp"
-            android:layout_height="40dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -318,8 +318,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text50"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_50"
             android:textSize="20sp"
@@ -362,9 +362,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out50"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -388,8 +388,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text20"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_20"
             android:textSize="20sp"
@@ -432,9 +432,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out20"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -457,8 +457,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text10"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_10"
             android:textSize="20sp"
@@ -501,9 +501,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out10"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -527,8 +527,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text5"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_5"
             android:textSize="20sp"
@@ -571,9 +571,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out5"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -596,8 +596,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text2"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_2"
             android:textSize="20sp"
@@ -640,9 +640,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out2"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -666,8 +666,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/text1"
             android:layout_width="50dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="5dp"
             android:gravity="center"
             android:text="@string/_1"
             android:textSize="20sp"
@@ -710,9 +710,9 @@
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/out1"
-            android:layout_width="100dp"
-            android:layout_height="30dp"
-            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
             android:gravity="center|end"
             android:textColor="@color/black"
             android:textSize="20sp"
