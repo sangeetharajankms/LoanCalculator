@@ -10,4 +10,6 @@
     <string name="_2">2</string>
     <string name="Total_Amount">Total Amount</string>
     <string name="total_amount"> </string>
+    <string name="total_interest">Total Interest :</string>
+    <string name="emi">EMI :</string>
 </resources>

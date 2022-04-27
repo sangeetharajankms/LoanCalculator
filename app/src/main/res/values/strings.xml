@@ -34,8 +34,12 @@
     <string name="_1">1</string>
     <string name="_2">2</string>
     <string name="Total_Amount">Total Amount</string>
-    <string name="total_amount"></string>
 
     <string name="emptyText"></string>
+    <string name="EMIAmount">EMI Amount : %s</string>
+    <string name="InterestAmount">Interest Amount : %s</string>
+    <string name="TotalAmount">Total Amount : %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

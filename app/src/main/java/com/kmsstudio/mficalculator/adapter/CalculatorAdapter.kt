@@ -43,7 +43,7 @@ class CalculatorAdapter(private val context : Context,
             }
         }
         
-        holder.imageView.setOnClickListener{
+        holder.itemView.setOnClickListener{
             val context = holder.view.context
             val intent = Intent(context, selectedActivity)
             
