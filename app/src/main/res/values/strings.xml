@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MFI Calculator</string>
+    <string name="app_name">Loan Calculator</string>
 
     <string name="emi_calculator">EMI Calculator</string>
     <string name="cash_calculator">Cash Calculator</string>

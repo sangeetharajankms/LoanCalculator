@@ -1,9 +1,9 @@
-package com.kmsstudio.mficalculator
+package com.kmsstudio.loancalculator
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.kmsstudio.mficalculator.databinding.EmiActivityBinding
+import com.kmsstudio.loancalculator.databinding.EmiActivityBinding
 import kotlin.math.ceil
 import kotlin.math.pow
 

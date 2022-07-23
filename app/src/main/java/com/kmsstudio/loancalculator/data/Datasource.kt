@@ -1,7 +1,7 @@
-package com.kmsstudio.mficalculator.data
+package com.kmsstudio.loancalculator.data
 
-import com.kmsstudio.mficalculator.R
-import com.kmsstudio.mficalculator.model.Calculator
+import com.kmsstudio.loancalculator.R
+import com.kmsstudio.loancalculator.model.Calculator
 
 class Datasource {
     fun loadCalculators(): List<Calculator>{

@@ -1,4 +1,4 @@
-package com.kmsstudio.mficalculator
+package com.kmsstudio.loancalculator
 
 import android.content.Context
 import android.os.Bundle
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.inputmethod.InputMethodManager
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.kmsstudio.mficalculator.databinding.InterestActivityBinding
+import com.kmsstudio.loancalculator.databinding.InterestActivityBinding
 import java.util.*
 
 class InterestActivity : AppCompatActivity() {

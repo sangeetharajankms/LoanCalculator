@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MFI_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/MFI_Calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MFI_Calculator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MFI_Calculator.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loan_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Loan_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loan_Calculator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loan_Calculator.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loan_Calculator.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loan_Calculator.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loan_Calculator.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loan_Calculator.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loan_Calculator.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loan_Calculator.app.unitTest.iml" />
     </modules>
   </component>
 </project>

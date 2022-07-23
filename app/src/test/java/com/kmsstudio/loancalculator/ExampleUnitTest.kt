@@ -1,4 +1,4 @@
-package com.kmsstudio.mficalculator
+package com.kmsstudio.loancalculator
 
 import org.junit.Test
 

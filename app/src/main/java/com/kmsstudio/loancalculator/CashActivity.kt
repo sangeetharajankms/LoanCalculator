@@ -1,4 +1,4 @@
-package com.kmsstudio.mficalculator
+package com.kmsstudio.loancalculator
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -6,7 +6,7 @@ import androidx.core.widget.doAfterTextChanged
 import com.ibm.icu.text.DecimalFormat
 import com.ibm.icu.text.RuleBasedNumberFormat
 import java.util.*
-import com.kmsstudio.mficalculator.databinding.CashActivityBinding
+import com.kmsstudio.loancalculator.databinding.CashActivityBinding
 
 
 class CashActivity : AppCompatActivity() {

@@ -1,15 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Loan Calculator</string>
+
+    <string name="emi_calculator">EMI Calculator</string>
+    <string name="cash_calculator">Cash Calculator</string>
+    <string name="interest_calculator">Interest Calculator</string>
+    <string name="schedule_calculator">Schedule Calculator</string>
+
+    <string name="ob_amount">Opening Balance</string>
+    <string name="cb_amount">Closing Balance</string>
+    <string name="num_of_dates">Num of Dates</string>
+    <string name="interest">Interest</string>
+    <string name="calculate">Calculate</string>
+    <string name="eighteenpercent">18%</string>
+    <string name="ninteenpercent">19%</string>
+    <string name="nineteen_eightyfive_percent">19.85%</string>
+    <string name="twentypercent">20%</string>
+    <string name="repayment">Repayment</string>
+    <string name="Reset">Reset</string>
     <string name="cash_denomination">Cash Denomination</string>
     <string name="count">Count</string>
+
     <string name="_2000">2000</string>
+    <string name="_500">500</string>
+    <string name="_200">200</string>
+    <string name="_100">100</string>
+    <string name="_50">50</string>
+    <string name="_20">20</string>
+    <string name="_10">10</string>
+
     <string name="x">X</string>
     <string name="equal">=</string>
     <string name="_5">5</string>
     <string name="_1">1</string>
     <string name="_2">2</string>
     <string name="Total_Amount">Total Amount</string>
-    <string name="total_amount"> </string>
-    <string name="total_interest">Total Interest :</string>
-    <string name="emi">EMI :</string>
+
+    <string name="emptyText"></string>
+    <string name="EMIAmount">EMI Amount : %s</string>
+    <string name="InterestAmount">Interest Amount : %s</string>
+    <string name="TotalAmount">Total Amount : %s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

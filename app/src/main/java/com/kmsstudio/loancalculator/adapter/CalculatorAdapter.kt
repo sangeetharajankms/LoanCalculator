@@ -1,4 +1,4 @@
-package com.kmsstudio.mficalculator.adapter
+package com.kmsstudio.loancalculator.adapter
 
 import android.content.Context
 import android.content.Intent
@@ -8,9 +8,9 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.kmsstudio.mficalculator.*
-import com.kmsstudio.mficalculator.model.Calculator
-import com.kmsstudio.mficalculator.CashActivity
+import com.kmsstudio.loancalculator.*
+import com.kmsstudio.loancalculator.model.Calculator
+import com.kmsstudio.loancalculator.CashActivity
 
 class CalculatorAdapter(private val context : Context,
                         private val dataset: List<Calculator>

@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/SANGEETH/StudioProjects/MFICalculator/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/SANGEETH/StudioProjects/MFICalculator/app/src/main/res/layout/cash_activity.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/SANGEETH/StudioProjects/MFICalculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2985" />
         <entry key="..\:/Users/sange/AndroidStudioProjects/EMICalculator/app/src/main/res/drawable/calculator.xml" value="0.1325" />
         <entry key="..\:/Users/sange/AndroidStudioProjects/EMICalculator/app/src/main/res/drawable/cash.xml" value="0.1745" />
         <entry key="..\:/Users/sange/AndroidStudioProjects/EMICalculator/app/src/main/res/drawable/interest.xml" value="0.1325" />

@@ -1,11 +1,11 @@
-package com.kmsstudio.mficalculator
+package com.kmsstudio.loancalculator
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.kmsstudio.mficalculator.adapter.CalculatorAdapter
-import com.kmsstudio.mficalculator.data.Datasource
+import com.kmsstudio.loancalculator.adapter.CalculatorAdapter
+import com.kmsstudio.loancalculator.data.Datasource
 
 
 class MainActivity : AppCompatActivity() {
